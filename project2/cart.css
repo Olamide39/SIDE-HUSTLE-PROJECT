@@ -1,0 +1,239 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200;0,500;0,700;1,300;1,600&display=swap');
+*{
+    
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.name{
+    color: #F1D5BB;
+    background-color: black;
+    font-size: 20px;
+    font-weight: 900;
+    height: 40px;
+    box-shadow: 0 5px 5px grey;
+}
+#s{
+    position: absolute;
+    left: 40%;
+    top: 1%;
+}
+#t{
+    position: absolute;
+    left: 42.5%;
+    top: 2.5%;
+    color: black;
+    background-color: #F1D5BB;
+    border-color: black;
+    border-style: wavy;
+}
+
+h1{
+    position: absolute;
+    left: 20%;
+    top: 10%;
+    margin-bottom: 10px;
+}
+main{
+    position: relative;
+    height: 100vh;
+   background-color:  rgb(183, 197, 192);
+}
+.item{
+    border-radius: 0px;
+    position: absolute;
+    background-color:  #ce9c6e;
+    width: 500px;
+    height: 400px;
+    top: 20%;
+    left: 20%;
+    box-shadow: 5px 5px 12px 2px grey;
+    
+}
+h1{
+    font-family: 'Mulish';
+    text-decoration: underline;
+    text-decoration-color: #F1D5BB;
+}
+.img2{
+    position: absolute;
+    left: 4%;
+    top: 27%;
+}
+.img1{
+    position: absolute;
+    left: 4%;
+    top: 4%;
+    
+}
+.img3{
+    position: absolute;
+    left: 4%;
+    top: 50%;
+}
+.img4{
+    position: absolute;
+    left: 4%;
+    top: 75%;
+}
+
+img{
+    width: 70px;
+    height: 70px;
+    border-radius: 50px;
+}
+.sidebar{
+    border-radius: 0px;
+    position: absolute;
+    right: 5%;
+    top: 7%;
+    background-color: black;
+    height: 50px;
+    width: 300px; 
+    border-radius: 20px;
+    padding: 10px;
+    box-shadow: 5px 5px 5px grey;
+}
+a{
+    margin: 0 18px;
+}
+.avo{
+    font-family: 'Mulish';
+    position: absolute;
+    top: 8%;
+    left: 20%;
+}
+.yin{
+    font-family: 'Mulish';
+    position: absolute;
+    left: 20%;
+    top: 31%;
+}
+.pan{
+    font-family: 'Mulish';
+    position: absolute;
+    left: 20%;
+    top: 54%;
+}
+.ran{
+    font-family: 'Mulish';
+    position: absolute;
+    left: 20%;
+    top: 80%;
+}
+.one{
+    position: absolute;
+    top: 8%;
+    left: 90%;
+}
+.two{
+    position: absolute;
+    left: 90%;
+    top: 31%;
+}
+.three{
+    position: absolute;
+    top: 54%;
+    left: 90%;
+}
+.four{
+    position: absolute;
+    top: 80%;
+    left: 90%;
+}
+.num1{
+    
+    position: absolute;
+    top: 8%;
+    left: 75%;
+    cursor: alias;
+}
+.num2{
+    
+    position: absolute;
+    top: 31%;
+    left: 75%;
+    cursor: alias; 
+}
+.num3{
+
+    position: absolute;
+    top: 54%;
+    left: 75%;
+    cursor: alias;
+}
+.num4{
+    position: absolute;
+    top: 80%;
+    left: 75%;
+    cursor: alias;
+}
+.item2{
+    position: absolute;
+    background-color:  #ce9c6e;
+    width: 300px;
+    height: 200px;
+    top: 20%;
+    left: 60%;
+   
+}
+h3{
+    font-family: 'Mulish';
+    position: absolute;
+    font-size: 25px; 
+    font-weight: 500;
+    left: 16%;
+}
+button{
+    position: absolute;
+    font-family: 'Mulish';
+    font-size: 20px;
+    color: white;
+    background-color: black;
+    width: 200px;
+    height: 50px;
+    top: 65%;
+    left: 18%;
+}
+.total{
+    font-family: 'Mulish';
+    position: absolute;
+    font-size: 20px;
+    font-weight: 400;
+    top: 45%;
+    left: 17%;
+    
+}
+.item3{
+    
+    position: absolute;
+    border: 3px solid #ce9c6e;
+    width: 300px;
+    height: 100px;
+    left: 60%;
+    top: 50%;
+}
+h2{
+    
+    font-family: 'Mulish';
+    position: absolute;
+    font-size: 25px; 
+    font-weight: 500;
+    left: 5%;
+    top: 10%;
+}
+.promo{
+    font-family: 'Mulish';
+    position: absolute;
+    top: 50%;
+    left: 2%;
+    padding: 10px;
+    font-style: italic;
+    
+   
+}
+.APPLY{
+    position: absolute;
+    top: 60%;
+    left: 56%;
+}
